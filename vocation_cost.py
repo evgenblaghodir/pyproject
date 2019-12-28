@@ -1,5 +1,6 @@
 ###calculationg vocation cost
 ###asdasd
+###aded new comment
 def hotel_cost(nights):
   return 140*nights
 
